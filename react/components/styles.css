@@ -1,0 +1,52 @@
+.container {
+    padding: 10px;
+}
+
+.container__item {
+    padding: 1rem;
+}
+
+.container__total {
+    background-color: #e0e0e0;
+    padding: 0.6rem;
+    text-align: center;
+}
+
+.container__img {
+    padding: 1rem;
+    text-align: center;
+}
+
+.container__item__info {
+    padding: 1.2rem;
+}
+
+.container__buttons {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.button__checkout,
+.button__cart {
+    color: black;
+    padding: 0.8rem;
+    transition: transform .3s ease;
+    -webkit-transition: transform .3s ease;
+    -moz-transition: transform .3s ease;
+    -ms-transition: transform .3s ease;
+    -o-transition: transform .3s ease;
+}
+
+.button__checkout {
+    color: #fd611a;
+    text-decoration: underline;
+}
+
+.button__cart {
+    background-color: #fd611a;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    width: 100%;
+}
