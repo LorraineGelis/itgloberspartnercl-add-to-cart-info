@@ -50,7 +50,8 @@ const AddToCartInfo = ({ blockClass }: { blockClass: string }) => {
         }
             <div className={container__total}>
                 <p>Tienes {items.length} productos en el carrito </p>
-                <p>Total: {totalizers[0]?.value} Por calcular</p>
+                <p>Total: ${totalizers[0]?.value / 100}</p>
+
             </div>
             <ButtonGroup blockClass={blockClass} />
         </div>
