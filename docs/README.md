@@ -77,7 +77,7 @@ Ahora, lo que prosigue es, estando dentro del folder `react`, instalar las depen
 Es importante crear un folder a nivel global llamado `store`, dicho folder va a contener un archivo llamado `interfaces.json`, en ese archivo vamos a encontrar lo siguiente:
 
     {
-       "whatsapp-button": {
+       "add-to-cart-info": {
           "component": "AddToCartInfo",
         }
       }
