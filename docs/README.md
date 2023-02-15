@@ -96,4 +96,4 @@ Para recordar: el comando `vtex link` nos permite vincular nuestros archivos loc
 
 ### Colaboradores:
 
-- Lorraine Gelis Díaz
+- Lorraine Gelis Díaz 
